@@ -1,0 +1,29 @@
+.img-style {
+    width: 400px;
+}
+
+@media only screen and (max-width: 500px) {
+    .img-style {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .img-style {
+        width: 200px;
+    }
+}
+
+.img-icon {
+    width: 265px;
+    height: 265px;
+    margin: 60px auto 0;
+}
+
+.s_ver_center_ {
+    margin: 60px auto 0;
+}
+
+.full_screen {
+    height: 100vh;
+}
