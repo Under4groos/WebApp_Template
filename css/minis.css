@@ -79,3 +79,11 @@ svg.rot {
 .ml-5 {
     margin-left: 5px;
 }
+
+.image_w_80 {
+    width: 80%;
+}
+
+.image_w_60 {
+    width: 60%;
+}
